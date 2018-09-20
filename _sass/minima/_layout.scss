@@ -133,6 +133,9 @@
 }
 
 .footer-col {
+  h3 {
+    color: $text-color;
+  }
   float: left;
   margin-bottom: $spacing-unit / 2;
   padding-left: $spacing-unit / 2;
@@ -266,6 +269,7 @@
   margin-bottom: $spacing-unit;
   background-color: white;
   width: 100%;
+  height: 44px; //??????????????? why??? only the first post is broken??????
   border: solid black;
   
   a {
@@ -285,6 +289,10 @@
     color: white;
   }
   .next {
+    float: right;
+  }
+
+  .last {
     float: right;
   }
 }
