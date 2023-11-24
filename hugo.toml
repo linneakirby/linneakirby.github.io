@@ -1,0 +1,4 @@
+baseURL = 'https://linneakirby.com/'
+languageCode = 'en-us'
+title = 'linnea.club'
+theme = 'blowfish'

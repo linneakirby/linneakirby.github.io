@@ -1,0 +1,27 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "linnea.club"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  # logo = "img/logo.png"
+  # secondaryLogo = "img/secondary-logo.png"
+  # description = "Homepage of Linnea Kirby"
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+# [author]
+#   name = "Linnea Kirby"
+#   image = "img/blowfish_logo.png"
+#   headline = "Contemporary Renaissance Person"
+#   bio = "A little bit about you"
+#   links = [
+#     { email = "mailto:linnea@linneakirby.com" },
+#     { link = "https://linneakirby.com/" },
+#     { github = "https://github.com/linneakirby" },
+#     { instagram = "https://instagram.com/kirbabby" },
+#     { researchgate = "https://www.researchgate.net/profile/Linnea-Kirby" },
+#   ]
