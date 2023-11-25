@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+    <loc>https://linneakirby.com/fr/about/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://linneakirby.com/about/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://linneakirby.com/fr/about/"
+    />
+  </url>
+  <url>
+    <loc>https://linneakirby.com/fr/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://linneakirby.com/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://linneakirby.com/fr/"
+    />
+  </url>
+</urlset>

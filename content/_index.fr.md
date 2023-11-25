@@ -1,7 +1,7 @@
 ---
 title: "linnea.club"
 description: "Homepage of Linnea Kirby."
-language: FR
+languageCode: "fr-ca"
 ---
 
 personne renaissance contemporaine

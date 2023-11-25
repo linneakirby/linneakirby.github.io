@@ -1,6 +1,7 @@
 ---
 title: "about"
 description: "About Linnea Kirby."
+languageCode: "fr-ca"
 ---
 
 Linnéa Kirby est une "personne renaissance contemporaine" autoproclamée avec des intérêts creatives aux analytiques. Linnéa a reçu son baccalauréat en psychologie avec un concentration des sciences cognitives en 2016 de l'université Oberlin. Elle a matriculé d'une année de la programme PROTrack de la Centre Nouvelle Angleterre des arts du cirque (NECCA) en 2018, où elle a spécialisé en contorsion et du mât chinois. Maintenant, elle fait sa maitrise à l'université McGill, où elle est membre du <a href="https://srl.mcgill.ca/">Shared Reality Lab (SRL)</a>, de la <a href="https://www.mcgill.ca/cim/">Centre for Intelligent Machines (CIM)</a>, and the <a href="https://www.cirmmt.org/en">Centre for Interdisciplinary Research in Music, Media, and Technology (CIRMMT)</a>.
