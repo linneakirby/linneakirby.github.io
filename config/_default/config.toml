@@ -24,14 +24,14 @@ buildFuture = false
         title = "linnea.club"
         [languages.en.params]
             description = "contemporary renaissance person"
-            cvName = "LKirby_CV.pdf"
+            cvName = "LKirby_CV-en.pdf"
     [languages.fr]
         languageName = 'fr'
         LanguageCode = 'fr-ca'
         title = "linnea.club"
         [languages.fr.params]
             description = "personne renaissance contemporaine"
-            #cvName = "CV-Juliette-Regimbal-fr.pdf"
+            #cvName = "LKirby_CV-fr.pdf"
 
 [imaging]
   anchor = 'Center'

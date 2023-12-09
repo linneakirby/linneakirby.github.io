@@ -17,8 +17,8 @@ enableCodeCopy = false
 
 disableImageOptimization = true
 
-# defaultBackgroundImage = "/assets/tileBW.png" # used as default for background images 
-# defaultFeaturedImage = "/assets/tileBW.png" # used as default for featured images in all articles
+# defaultBackgroundImage = "../assets/tileBW.png" # used as default for background images 
+# defaultFeaturedImage = "../assets/tileBW.png" # used as default for featured images in all articles
 
 # highlightCurrentMenuArea = true
 # smartTOC = true
@@ -36,7 +36,7 @@ disableImageOptimization = true
 
 [homepage]
   layout = "profile" # valid options: page, profile, hero, card, background, custom
-  #homepageImage = "../../assets/tileBW.png" # used in: hero, and card
+  #homepageImage = "../assets/tileBW.png" # used in: hero, and card
   showRecent = false
   showRecentItems = 5
   showMoreLink = false

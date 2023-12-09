@@ -1,6 +1,6 @@
 ---
 title: "linnea.club"
-description: "Homepage of Linnea Kirby."
+description: "homepage of Linnéa Kirby."
 languageCode: "en-us"
 ---
 
