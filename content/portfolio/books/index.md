@@ -13,6 +13,7 @@ draft: false
 ---
 
 {{< gallery >}}
+  <img src="gallery/2023recordbook.JPG" class="grid-w50 md:grid-w33 xl:grid-w25" />
   <img src="gallery/2018origamibook.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
   <img src="gallery/2016pianohingeflowerbook.JPG" class="grid-w50 md:grid-w33 xl:grid-w25" />
   <img src="gallery/2016historyofhysteria.png" class="grid-w50 md:grid-w33 xl:grid-w25" />

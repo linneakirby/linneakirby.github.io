@@ -19,10 +19,10 @@ title = "linnea.club"
    image = "self.jpg"
    headline = "personne renaissance contemporaine"
 #   bio = "A little bit about you"
-#   links = [
-#     { email = "mailto:linnea@linneakirby.com" },
+   links = [
+     { email = "mailto:linnea@linneakirby.com" },
 #     { link = "https://linneakirby.com/" },
-#     { github = "https://github.com/linneakirby" },
-#     { instagram = "https://instagram.com/kirbabby" },
-#     { researchgate = "https://www.researchgate.net/profile/Linnea-Kirby" },
-#   ]
+     { github = "https://github.com/linneakirby" },
+     { instagram = "https://instagram.com/kirbabby" },
+     { researchgate = "https://www.researchgate.net/profile/Linnea-Kirby" },
+   ]

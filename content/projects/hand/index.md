@@ -5,7 +5,7 @@ layout: layouts/_default/list.html
 languageCode: "en-us"
 showHero: true
 heroStyle: big
-tags: ["thesis", "mcgill", "circus"]
+tags: ["thesis", "mcgill", "circus", "haptics"]
 draft: true
 ---
 #### a masters thesis
