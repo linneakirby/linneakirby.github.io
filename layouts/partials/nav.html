@@ -1,32 +1,51 @@
-<div id="nav-pages">
-    {{ range .Site.Menus.main.ByWeight }}
-    <a href="{{ .URL }}">{{ .Name }}</a>
-    {{ end }}
-    {{ with resources.Get .Site.Params.cvName }}
-        <a href="{{ .Permalink }}">CV</a>
-    {{ end }}
-</div>
-
-<div class="horizontal-nav external-sites">
-    {{ range .Site.Params.externalSites }}
-    <a aria-label="{{ .name }}" class="external-site" href="{{ .href }}">
-        {{ $icon := resources.Get .icon }}
-        <img src="{{ $icon.Permalink }}" alt="{{ .name }} logo" class="external-site-img">
-    </a>
-    {{ end }}
-</div>
-
-<div class="horizontal-nav"> <!--style="display: flex"-->
-  {{ $translations := dict }}
-  {{ range .Translations }}
-    {{ $translations = merge $translations (dict .Language.Lang .) }}
-  {{ end }}
-
-  <a class="language-elem active">{{ .Page.Lang }}</a>
-  {{ range .Site.Languages }}
-    {{ with (index $translations .Lang) }}
-        <a class="language-elem" href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
-    {{ end}}
-  {{ end }}
-</div>
-
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="2299.7">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000}
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000; min-height: 14.0px}
+    span.s1 {font-kerning: none}
+    span.s2 {text-decoration: underline ; font-kerning: none; color: #0000dc; -webkit-text-stroke: 0px #0000dc}
+  </style>
+</head>
+<body>
+<p class="p1"><span class="s1">#{{ range .Site.Menus.main.ByWeight }} <a href="file:///Users/linnea/Dropbox/Mac%20(2)/Documents/GitHub/linneakirby.github.io/layouts/partials/%7B%7B%20.URL%20%7D%7D"><span class="s2">{{ .Name }}</span></a> {{ end }} {{ with resources.Get .Site.Params.cvName }} <a href="file:///Users/linnea/Dropbox/Mac%20(2)/Documents/GitHub/linneakirby.github.io/layouts/partials/%7B%7B%20.Permalink%20%7D%7D"><span class="s2">CV</span></a> {{ end }} {{ range .Site.Params.externalSites }} {{ $icon := resources.Get .icon }} {{ end }} {{ $translations := dict }} {{ range .Translations }} {{ $translations = merge $translations (dict .Language.Lang .) }} {{ end }} {{ .Page.Lang }} {{ range .Site.Languages }} {{ with (index $translations .Lang) }} {{ .Language.LanguageName }} {{ end}} {{ end }}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">&lt;div id="nav-pages"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{{ range .Site.Menus.main.ByWeight }}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;a href="{{ .URL }}"&gt;{{ .Name }}&lt;/a&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{{ end }}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{{ with resources.Get .Site.Params.cvName }}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>&lt;a href="{{ .Permalink }}"&gt;CV&lt;/a&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{{ end }}</span></p>
+<p class="p1"><span class="s1">&lt;/div&gt;</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">&lt;div class="horizontal-nav external-sites"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{{ range .Site.Params.externalSites }}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;a aria-label="{{ .name }}" class="external-site" href="{{ .href }}"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{{ $icon := resources.Get .icon }}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>&lt;img src="{{ $icon.Permalink }}" alt="{{ .name }} logo" class="external-site-img"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;/a&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{{ end }}</span></p>
+<p class="p1"><span class="s1">&lt;/div&gt;</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">&lt;div class="horizontal-nav"&gt; &lt;!--style="display: flex"--&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{{ $translations := dict }}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{{ range .Translations }}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{{ $translations = merge $translations (dict .Language.Lang .) }}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{{ end }}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;a class="language-elem active"&gt;{{ .Page.Lang }}&lt;/a&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{{ range .Site.Languages }}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{{ with (index $translations .Lang) }}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>&lt;a class="language-elem" href="{{ .Permalink }}"&gt;{{ .Language.LanguageName }}&lt;/a&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{{ end}}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{{ end }}</span></p>
+<p class="p1"><span class="s1">&lt;/div&gt;</span></p>
+</body>
+</html>

@@ -26,10 +26,10 @@
   pageRef = "portfolio"
   weight = 20
 
-[[main]]
-  name = "CV"
-  pageRef = "LKirby_CV-en"
-  weight = 30
+#[[main]]
+#  name = "CV"
+#  pageRef = "LKirby_CV-en.pdf"
+#  weight = 30
 
 
 # -- Footer Menu --

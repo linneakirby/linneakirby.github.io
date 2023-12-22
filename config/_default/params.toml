@@ -7,7 +7,7 @@
 
 colorScheme = "autumn"
 defaultAppearance = "dark" # valid options: light or dark
-autoSwitchAppearance = true
+autoSwitchAppearance = false
 
 enableSearch = true
 enableCodeCopy = false
@@ -17,10 +17,10 @@ enableCodeCopy = false
 
 disableImageOptimization = true
 
-# defaultBackgroundImage = "../assets/tileBW.png" # used as default for background images 
-# defaultFeaturedImage = "../assets/tileBW.png" # used as default for featured images in all articles
+defaultBackgroundImage = "tileBW.png" # used as default for background images 
+defaultFeaturedImage = "tileBW.png" # used as default for featured images in all articles
 
-# highlightCurrentMenuArea = true
+highlightCurrentMenuArea = true
 # smartTOC = true
 # smartTOCHideUnfocusedChildren = true
 
@@ -36,41 +36,41 @@ disableImageOptimization = true
 
 [homepage]
   layout = "profile" # valid options: page, profile, hero, card, background, custom
-  #homepageImage = "../assets/tileBW.png" # used in: hero, and card
+  homepageImage = "tileBW.png" # used in: hero, and card
   showRecent = false
   showRecentItems = 5
   showMoreLink = false
-  showMoreLinkDest = "/posts"
+  showMoreLinkDest = "/about"
   cardView = false
   cardViewScreenWidth = false
   layoutBackgroundBlur = false # only used when layout equals background
 
 [article]
-  showDate = true
+  showDate = false
   showViews = false
   showLikes = false
-  showDateUpdated = false
-  showAuthor = true
-  showHero = false
-  # heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
+  showDateUpdated = true
+  showAuthor = false
+  showHero = true
+  heroStyle = "big" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
-  showBreadcrumbs = false
+  showBreadcrumbs = true
   showDraftLabel = true
   showEdit = false
   # editURL = "https://github.com/username/repo/"
-  editAppendPath = true
+  # editAppendPath = true
   seriesOpened = false
-  showHeadingAnchors = true
+  showHeadingAnchors = false
   showPagination = true
   invertPagination = false
-  showReadingTime = true
-  showTableOfContents = false
+  showReadingTime = false
+  showTableOfContents = true
   # showRelatedContent = false
   # relatedContentLimit = 3
   showTaxonomies = false
   showAuthorsBadges = false
-  showWordCount = true
+  showWordCount = false
   # sharingLinks = [ "linkedin", "twitter", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
 
 [list]

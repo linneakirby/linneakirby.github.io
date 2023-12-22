@@ -8,16 +8,17 @@ title = "linnea.club"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  # logo = "img/logo.png"
-  # secondaryLogo = "img/secondary-logo.png"
-  # description = "Homepage of Linnea Kirby"
+  cvName = "LKirby_CV-en.pdf"
+  # logo = "self.jpg"
+  # secondaryLogo = "tileBW.png"
+  # description = "Homepage of Linnéa Kirby"
   # copyright = "Copy, _right?_ :thinking_face:"
 
-# [author]
-#   name = "Linnea Kirby"
-#   image = "img/blowfish_logo.png"
-#   headline = "Contemporary Renaissance Person"
-#   bio = "A little bit about you"
+ [author]
+   name = "Linnéa Kirby"
+   image = "self.jpg"
+   headline = "contemporary renaissance person"
+   # bio = "A little bit about you"
 #   links = [
 #     { email = "mailto:linnea@linneakirby.com" },
 #     { link = "https://linneakirby.com/" },

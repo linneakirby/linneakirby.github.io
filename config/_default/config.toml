@@ -12,29 +12,39 @@ enableRobotsTXT = true
 paginate = 10
 summaryLength = 0
 
-buildDrafts = false
+buildDrafts = true
 buildFuture = false
 
 # googleAnalytics = "G-XXXXXXXXX"
 
 [languages]
-    [languages.en]
-        languageName = 'en'
-        LanguageCode = 'en-us'
-        title = "linnea.club"
-        [languages.en.params]
-            description = "contemporary renaissance person"
-            cvName = "LKirby_CV-en.pdf"
-    [languages.fr]
-        languageName = 'fr'
-        LanguageCode = 'fr-ca'
-        title = "linnea.club"
-        [languages.fr.params]
-            description = "personne renaissance contemporaine"
-            #cvName = "LKirby_CV-fr.pdf"
+  [languages.en]
+    languageName = 'en'
+    LanguageCode = 'en-us'
+    title = "linnea.club"
+    [languages.en.params]
+      description = "contemporary renaissance person"
+      cvName = "LKirby_CV-en.pdf"
+  [languages.fr]
+    languageName = 'fr'
+    LanguageCode = 'fr-ca'
+    title = "linnea.club"
+    [languages.fr.params]
+        description = "personne renaissance contemporaine"
+        #cvName = "LKirby_CV-fr.pdf"
 
 [imaging]
   anchor = 'Center'
+
+[params]
+  author = "Linnea Kirby"
+  title = "linnea.club"
+  favicon = "favicon.ico"
+
+[[params.externalSites]]
+  name = "GitHub"
+  href = "https://github.com/linneakirby"
+  icon = "github.png"
 
 [taxonomies]
   tag = "tags"
