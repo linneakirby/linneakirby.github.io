@@ -22,4 +22,7 @@ draft: false
   <img src="gallery/egg_turgle.gif" class="grid-w50 md:grid-w33 xl:grid-w25" />
   <img src="gallery/nyx_sandwich.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
   <img src="gallery/zzzzzz.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="gallery/neazine.JPG" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="gallery/muppet.JPG" class="grid-w50 md:grid-w33 xl:grid-w25" />
+
 {{< /gallery >}}

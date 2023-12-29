@@ -23,8 +23,9 @@ draft: false
   <img src="gallery/2017keeping_up_with_the_times.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
   <img src="gallery/2014gazebo.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
   <img src="gallery/2014backyard.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="gallery/2013windmill.JPG" class="grid-w50 md:grid-w33 xl:grid-w25" />
   <img src="gallery/2013Tiger.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
-  <img src="gallery/2013Julie.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="gallery/2013Julie.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
   <img src="gallery/2012Tappan_postcard.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
   <img src="gallery/2012SlowTrain.JPG" class="grid-w50 md:grid-w33 xl:grid-w25" />
   <img src="gallery/2012north_quad.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
