@@ -1,11 +1,12 @@
 ---
 title: "story book"
 description: "a childhood memory"
-layout: layouts/_default/list.html
+layout: layouts/_default/simple.html
 languageCode: "en-us"
 showHero: true
 heroStyle: big
-tags: ["oberlin", "art", "bookbinding", "accordion fold", "artist book", "hysteria", "history"]
+date: 2013
+tags: ["artist book", "bookbinding"]
 draft: false
 ---
 #### a childhood memory

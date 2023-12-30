@@ -1,11 +1,12 @@
 ---
 title: "HAND"
 description: "a masters thesis"
-layout: layouts/_default/list.html
+layout: layouts/_default/simple.html
 languageCode: "en-us"
 showHero: true
 heroStyle: big
-tags: ["thesis", "mcgill", "circus", "haptics"]
+date: 2023
+tags: ["circus", "ece", "haptics", "programming"]
 draft: true
 ---
 #### a masters thesis

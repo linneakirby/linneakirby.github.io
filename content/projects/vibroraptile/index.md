@@ -1,11 +1,12 @@
 ---
 title: "vibroraptile"
 description: "a haptic display to map auditory signals from a nature exhibit to vibrotactile ones"
-layout: layouts/_default/list.html
+layout: layouts/_default/simple.html
 languageCode: "en-us"
 showHero: true
 heroStyle: big
-tags: ["mcgill", "haptics", "accessibility"]
+date: 2021
+tags: ["collaboration", "ece", "haptics", "whc"]
 draft: false
 ---
 #### a haptic display to map auditory signals from a nature exhibit to vibrotactile ones

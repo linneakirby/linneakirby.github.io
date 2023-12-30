@@ -1,11 +1,12 @@
 ---
 title: "anosmia perfumery"
 description: "a trove of unique scents"
-layout: layouts/_default/list.html
+layout: layouts/_default/simple.html
 languageCode: "en-us"
 showHero: true
 heroStyle: big
-tags: ["oberlin", "art", "bookbinding", "clamshell box", "artist book", "anosmia", "perfumery"]
+date: 2016
+tags: ["artist book", "bookbinding"]
 draft: false
 ---
 #### a trove of unique scents

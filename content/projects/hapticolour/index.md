@@ -1,15 +1,16 @@
 ---
 title: "hapticolour"
 description: "a haptics-enhanced mindfulness coloring tool"
-layout: layouts/_default/list.html
+layout: layouts/_default/simple.html
 languageCode: "en-us"
 showHero: true
 heroStyle: big
-tags: ["mcgill", "haptics", "accessibility"]
+date: 2021
+tags: ["collaboration", "ece", "haptics", "programming", "published", "whc"]
 draft: false
 ---
 #### a haptics-enhanced mindfulness coloring tool using the Haply 2DIY
-###### in collaboration with Preeti Vyas and Marco Moran-Ledesma
+###### in collaboration with Preeti Vyas and Marco Moran-Ledesma and presented at the 2021 World Haptics Conference
 ---
 
 ## video

@@ -1,11 +1,12 @@
 ---
 title: "the first of mays"
 description: "a short silent film about the circus"
-layout: layouts/_default/list.html
+layout: layouts/_default/simple.html
 languageCode: "en-us"
 showHero: true
 heroStyle: big
-tags: ["oberlin", "art", "film", "circus"]
+date: 2015
+tags: ["circus", "performance", "film"]
 draft: false
 ---
 #### a short silent film about the circus

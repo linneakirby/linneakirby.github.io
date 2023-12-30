@@ -1,15 +1,16 @@
 ---
 title: "T-Tree"
 description: "a digital musical instrument"
-layout: layouts/_default/list.html
+layout: layouts/_default/simple.html
 languageCode: "en-us"
 showHero: true
 heroStyle: big
-tags: ["mcgill", "dmi", "music tech"]
+date: 2021
+tags: ["ece", "music tech", "nime", "published"]
 draft: false
 ---
 #### a digital musical instrument created and developed at McGill University
-###### in collaboration with Paul Buser, Kasey Pocius, and Christiana Rose
+###### in collaboration with Paul Buser, Kasey Pocius, and Christiana Rose and presented at NIME 2022 and NIME 2023
 ---
 {{< carousel images="gallery/*" aspectRatio="16-9" interval="2500" >}}
 
