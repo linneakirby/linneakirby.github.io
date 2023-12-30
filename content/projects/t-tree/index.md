@@ -5,7 +5,7 @@ layout: layouts/_default/simple.html
 languageCode: "en-us"
 showHero: true
 heroStyle: big
-date: 2021
+date: 2022
 tags: ["ece", "music tech", "nime", "published"]
 draft: false
 ---

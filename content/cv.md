@@ -30,11 +30,11 @@ layout: layouts/_default/simple.html
 
 ## publications
 
-<h3>[1]</h3> P. Vyas, L. Kirby, and M. Moran-Ledesma, “HaptiColour: Haptic-assisted Digital Colouring Platform for Managing Anxiety and Increasing Mindfulness,” in 2021 IEEE World Haptics Conference (WHC), Montreal, QC, Canada: IEEE, Jul. 2021, pp. 876–876. doi: 10.1109/WHC49131.2021.9517153.
+<h3><a href="https://www.researchgate.net/publication/354083492_HaptiColour_Haptic-assisted_Digital_Colouring_Platform_for_Managing_Anxiety_and_Increasing_Mindfulness">[1]</a></h3> P. Vyas, L. Kirby, and M. Moran-Ledesma, “HaptiColour: Haptic-assisted Digital Colouring Platform for Managing Anxiety and Increasing Mindfulness,” in 2021 IEEE World Haptics Conference (WHC), Montreal, QC, Canada: IEEE, Jul. 2021, pp. 876–876. doi: 10.1109/WHC49131.2021.9517153.
 
-<h3>[2]</h3> L. Kirby, P. Buser, and M. Wanderley, “Introducing the t-Tree: Using Multiple t-Sticks for Performance and Installation,” in NIME 2022, The University of Auckland, New Zealand: PubPub, Jun. 2022. doi: 10.21428/92fbeb44.2d00f04f.
+<h3><a href="https://www.researchgate.net/publication/361590986_Introducing_the_t-Tree_Using_Multiple_t-Sticks_for_Performance_and_Installation">[2]</a></h3> L. Kirby, P. Buser, and M. Wanderley, “Introducing the t-Tree: Using Multiple t-Sticks for Performance and Installation,” in NIME 2022, The University of Auckland, New Zealand: PubPub, Jun. 2022. doi: 10.21428/92fbeb44.2d00f04f.
 
-<h3>[3]</h3> P. Buser, K. Pocius, L. Kirby, and M. M. Wanderley, “Towards the T-Tree 2.0: Lessons Learned From Performance With a Novel DMI and Instrument Hub,” in NIME’23, Mexico City, Mexico, Jun. 2023. [Online]. Available: https://www.idmil.org/wp-content/uploads/2023/07/NIME23_Buser_2Tree.pdf
+<h3><a href="https://www.researchgate.net/publication/374842656_Towards_the_T-Tree_20_Lessons_Learned_From_Performance_With_a_Novel_DMI_and_Instrument_Hub">[3]</a></h3> P. Buser, K. Pocius, L. Kirby, and M. M. Wanderley, “Towards the T-Tree 2.0: Lessons Learned From Performance With a Novel DMI and Instrument Hub,” in NIME’23, Mexico City, Mexico, Jun. 2023. [Online]. Available: https://www.idmil.org/wp-content/uploads/2023/07/NIME23_Buser_2Tree.pdf
 <br>
 
 ---
