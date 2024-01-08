@@ -7,7 +7,7 @@ showHero: true
 heroStyle: big
 date: 2016
 tags: ["artist book", "bookbinding"]
-draft: false
+draft: true
 ---
 #### a timeline in comic form
 ###### accordion fold with invented binding; embossed titles and pages with hand-drawn panels

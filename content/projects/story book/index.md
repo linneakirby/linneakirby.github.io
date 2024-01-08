@@ -7,7 +7,7 @@ showHero: true
 heroStyle: big
 date: 2013
 tags: ["artist book", "bookbinding"]
-draft: false
+draft: true
 ---
 #### a childhood memory
 ###### coptic binding

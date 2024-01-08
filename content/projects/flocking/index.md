@@ -7,7 +7,7 @@ showHero: true
 heroStyle: big
 date: 2016
 tags: ["collaboration", "game design", "programming"]
-draft: false
+draft: true
 ---
 #### gather your flock
 ###### a game built in Unity with C# in collaboration with Andres Cuervo, Alejandro Belgrave, Emily Rizzo, and Margaret McCarthy

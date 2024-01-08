@@ -7,7 +7,7 @@ showHero: true
 heroStyle: big
 date: 2013
 tags: ["artist book", "bookbinding"]
-draft: false
+draft: true
 ---
 #### a poem by a.a. milne
 ###### coptic with hand-drawn typography

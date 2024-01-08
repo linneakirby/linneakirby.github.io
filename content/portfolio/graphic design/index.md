@@ -5,7 +5,7 @@ layout: layouts/_default/list.html
 languageCode: "en-us"
 showHero: true
 heroStyle: big
-tags: ["graphic design", "logos", "posters"]
+tags: ["art", "graphic design"]
 draft: false
 ---
 #### posters & etc.

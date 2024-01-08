@@ -7,7 +7,7 @@ showHero: true
 heroStyle: big
 date: 2016
 tags: ["artist book", "bookbinding", "collaboration"]
-draft: false
+draft: true
 ---
 #### a poem by Meeko Israel
 ###### accordion fold pages with hand-drawn new york city skyline and vellum overlay with typewriter-typed words

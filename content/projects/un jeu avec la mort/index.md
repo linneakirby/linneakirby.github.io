@@ -7,7 +7,7 @@ showHero: true
 heroStyle: big
 date: 2012
 tags: ["artist book", "bookbinding"]
-draft: false
+draft: true
 ---
 #### a story about loss
 ###### perfect binding with paper cutout illustrations and hand-drawn lettering

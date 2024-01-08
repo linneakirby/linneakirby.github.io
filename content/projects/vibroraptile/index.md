@@ -7,7 +7,7 @@ showHero: true
 heroStyle: big
 date: 2021
 tags: ["collaboration", "ece", "haptics", "whc"]
-draft: false
+draft: true
 ---
 #### a haptic display to map auditory signals from a nature exhibit to vibrotactile ones
 ###### in collaboration with Sri Gannavarapu and Yaxuan Li

@@ -7,7 +7,7 @@ showHero: true
 heroStyle: big
 date: 2022
 tags: ["ece", "music tech", "nime", "published"]
-draft: false
+draft: true
 ---
 #### a digital musical instrument created and developed at McGill University
 ###### in collaboration with Paul Buser, Kasey Pocius, and Christiana Rose and presented at NIME 2022 and NIME 2023

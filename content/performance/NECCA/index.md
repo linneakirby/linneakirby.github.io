@@ -5,8 +5,8 @@ layout: layouts/_default/list.html
 languageCode: "en-us"
 showHero: true
 heroStyle: big
-tags: ["circus", "performance", "contortion", "aerial silk"]
-draft: false
+tags: ["circus", "choreography", "performance"]
+draft: true
 ---
 #### performances at the New England Center for Circus Arts (NECCA)
 ###### photos by Elsie Smith

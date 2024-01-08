@@ -7,7 +7,7 @@ showHero: true
 heroStyle: big
 date: 2015
 tags: ["circus", "performance", "film"]
-draft: false
+draft: true
 ---
 #### a short silent film about the circus
 ###### Oberlin College 2015 winter term project in collaboration with Molly Barger and Christiana Rose

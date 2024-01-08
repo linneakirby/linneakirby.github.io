@@ -5,7 +5,7 @@ layout: layouts/_default/list.html
 languageCode: "en-us"
 showHero: true
 heroStyle: big
-tags: ["art", "graphics", "decor", "misc"]
+tags: ["art", "crafts"]
 draft: false
 ---
 #### miscellany

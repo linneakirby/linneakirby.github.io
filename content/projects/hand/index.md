@@ -12,3 +12,7 @@ draft: true
 #### a masters thesis
 ###### Shared Reality Lab, Centre for Intelligent Machines, McGill University
 ---
+
+
+## github
+{{< github repo="linneakirby/haptic-handbalancing" >}}

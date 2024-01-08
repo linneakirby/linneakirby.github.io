@@ -5,7 +5,7 @@ layout: layouts/_default/list.html
 languageCode: "en-us"
 showHero: true
 heroStyle: big
-tags: ["art", "flowers", "drawing"]
+tags: ["art", "drawing"]
 draft: false
 ---
 #### flowers & etc.

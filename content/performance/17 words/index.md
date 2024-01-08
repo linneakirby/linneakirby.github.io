@@ -5,8 +5,8 @@ layout: layouts/_default/list.html
 languageCode: "en-us"
 showHero: true
 heroStyle: big
-tags: ["circus", "performance", "contortion", "acrodance"]
-draft: false
+tags: ["circus", "choreography", "performance"]
+draft: true
 ---
 #### an Esh Circus Arts performance in Somerville, MA, USA
 ###### photo credit Jonathan Beckley
