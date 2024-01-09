@@ -13,7 +13,7 @@ draft: true
 ###### accordion fold pages with hand-drawn new york city skyline and vellum overlay with typewriter-typed words
 ---
 ## the book
-{{< carousel images="gallery/P*" aspectRatio="16-9" interval="2500" >}}
+{{< carousel images="gallery/IMG*" aspectRatio="16-9" interval="2500" >}}
 
 ## the author
 
@@ -74,7 +74,15 @@ who she knew actually made it
 	on an airline ticket
 no more slave steps
 	her friend wrote her in a letter
-[TODO LOL]
+that times
+that time
+that		that many times
+	that
+	abroad were much	much better
+			  much
+than they
+than they were
+		in the islands
 the u.s.
 the u.s.a.
 the u.s.
@@ -82,12 +90,20 @@ the u.s.a.
 actually fed her
 until she found one of the
 three jobs she now has
-[TODO AGAIN]
+yeah, she got three jobs
+quick,
+	fast,
+		and in a hurry
 because		because they say
 	because
 most yankees don't even want one
 they just
 	they just like to
 sit on their ass and have fun
-[TODO]
+but still
+there is this matter of
+	immigration
+		immigration
+	imagination
+		immigration
 </pre>
