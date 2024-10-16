@@ -20,13 +20,13 @@ layout: layouts/_default/simple.html
 
 | Titre                    | Compagnie                                                                            | Endroit     | Période          |
 |---------------|-----------|--------------|----------------|
-| Lead TA – Software Engineering Practice   | McGill University                                                                  | Montréal, QC | 1/24 - présent |
-| Lead TA – Software Validation   | McGill University                                                                  | Montréal, QC | 1/24 - present |
-| TA – Software Validation   | McGill University                                                                  | Montréal, QC | 9/23 - 12/23 |
-| Web Design Team            | <a href="https://www.foliomagazine.ca/">Folio Art and Design Magazine</a>          | Montréal, QC | 9/21 - 05/22   |
-| TA – Haptics Class         | McGill University                                                                  | Montréal, QC | 1/22 - 5/22    |
-| Hybrid Chair               | <a href="https://icmi.acm.org/2021/index.php?id=home">ACM ICMI 2021 Conference</a> | Montréal, QC | 5/22           |
-| Grader – Capstone Projects | McGill University                                                                  | Montréal, QC | 1/21 - 5/21    |
+| Chef d'équipe technique – Pratique de l'ingénierie logicielle   | Université McGill                                                                  | Montréal, QC | 1/24 - présent |
+| Chef d'équipe technique – Validation de logiciels   | Université McGill                                                                  | Montréal, QC | 1/24 - present |
+| AE – Validation de logiciels   | Université McGill                                                                  | Montréal, QC | 9/23 - 12/23 |
+| Équipe de conception Web            | <a href="https://www.foliomagazine.ca/">Folio Art and Design Magazine</a>          | Montréal, QC | 9/21 - 05/22   |
+| AE – Cours d'haptique         | Université McGill                                                                  | Montréal, QC | 1/22 - 5/22    |
+| Chaire hybride               | <a href="https://icmi.acm.org/2021/index.php?id=home">Conférence ACM ICMI 2021</a> | Montréal, QC | 5/22           |
+| Évaluateur – Projets Capstone | Université McGill                                                                  | Montréal, QC | 1/21 - 5/21    |
 
 ---
 
