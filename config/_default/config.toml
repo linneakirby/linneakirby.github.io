@@ -23,14 +23,14 @@ buildFuture = false
     LanguageCode = 'en-us'
     title = "linnea.club"
     [languages.en.params]
-      description = "contemporary renaissance person"
+      description = "circus technologist"
       cvName = "LKirby_CV-en.pdf"
   [languages.fr]
     languageName = 'fr'
     LanguageCode = 'fr-ca'
     title = "linnea.club"
     [languages.fr.params]
-        description = "personne renaissance contemporaine"
+        description = "technologue du cirque"
         #cvName = "LKirby_CV-fr.pdf"
 
 [imaging]
