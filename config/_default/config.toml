@@ -9,13 +9,15 @@ defaultContentLanguage = "en"
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
 enableRobotsTXT = true
-paginate = 10
 summaryLength = 0
 
 buildDrafts = true
 buildFuture = false
 
 # googleAnalytics = "G-XXXXXXXXX"
+
+[pagination]
+  pagerSize = 100
 
 [languages]
   [languages.en]
@@ -37,9 +39,14 @@ buildFuture = false
   anchor = 'Center'
 
 [params]
-  author = "Linnea Kirby"
   title = "linnea.club"
   favicon = "favicon.ico"
+
+[params.author]
+  name = "Linnea Kirby"
+  image = "assets/self.jpg"
+  headline = "circus technologist"
+
 
 [[params.externalSites]]
   name = "GitHub"
