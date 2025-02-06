@@ -14,10 +14,10 @@ title = "linnea.club"
   # description = "Homepage of Linnéa Kirby"
   # copyright = "Copy, _right?_ :thinking_face:"
 
- [author]
+[params.author]
    name = "Linnéa Kirby"
    image = "self.jpg"
-   headline = "contemporary renaissance person"
+   headline = "circus technologist"
    # bio = "A little bit about you"
    links = [
      { email = "mailto:linnea@linneakirby.com" },

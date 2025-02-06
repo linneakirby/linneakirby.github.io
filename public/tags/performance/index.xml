@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Performance on linnea.club</title>
+    <link>https://linneakirby.com/tags/performance/</link>
+    <description>Recent content in Performance on linnea.club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Linnéa Kirby</copyright>
+    <lastBuildDate>Wed, 31 Dec 1969 19:33:35 -0500</lastBuildDate><atom:link href="https://linneakirby.com/tags/performance/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>the first of mays</title>
+      <link>https://linneakirby.com/projects/the-first-of-mays/</link>
+      <pubDate>Wed, 31 Dec 1969 19:33:35 -0500</pubDate>
+      
+      <guid>https://linneakirby.com/projects/the-first-of-mays/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://linneakirby.com/projects/the-first-of-mays/feature_FirstofMays.jpg" />
+    </item>
+    
+    <item>
+      <title>17 words</title>
+      <link>https://linneakirby.com/performance/17-words/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://linneakirby.com/performance/17-words/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://linneakirby.com/performance/17-words/feature_Esh_Summer2017-84.jpg" />
+    </item>
+    
+    <item>
+      <title>append</title>
+      <link>https://linneakirby.com/performance/append/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://linneakirby.com/performance/append/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://linneakirby.com/performance/append/feature_append.png" />
+    </item>
+    
+    <item>
+      <title>NECCA</title>
+      <link>https://linneakirby.com/performance/necca/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://linneakirby.com/performance/necca/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://linneakirby.com/performance/necca/feature_NECCA14.jpg" />
+    </item>
+    
+    <item>
+      <title>OCircus!</title>
+      <link>https://linneakirby.com/performance/ocircus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://linneakirby.com/performance/ocircus/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://linneakirby.com/performance/ocircus/feature_clowntiger4.JPG" />
+    </item>
+    
+  </channel>
+</rss>

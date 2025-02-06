@@ -6,15 +6,26 @@
     <description>Recent content on linnea.club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2023 </copyright>
+    <copyright>© 2025 Linnéa Kirby</copyright>
     <atom:link href="https://linneakirby.com/fr/index.xml" rel="self" type="application/rss+xml" />
+    
     <item>
-      <title>about</title>
+      <title>à propos</title>
       <link>https://linneakirby.com/fr/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://linneakirby.com/fr/about/</guid>
-      <description>Linnéa Kirby est une &amp;ldquo;personne renaissance contemporaine&amp;rdquo; autoproclamée avec des intérêts creatives aux analytiques.</description>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>cv</title>
+      <link>https://linneakirby.com/fr/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://linneakirby.com/fr/cv/</guid>
+      <description></description>
       
     </item>
     

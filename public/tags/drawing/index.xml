@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Drawing on linnea.club</title>
+    <link>https://linneakirby.com/tags/drawing/</link>
+    <description>Recent content in Drawing on linnea.club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Linnéa Kirby</copyright>
+    <atom:link href="https://linneakirby.com/tags/drawing/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>botanical drawings</title>
+      <link>https://linneakirby.com/portfolio/botanical-drawings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://linneakirby.com/portfolio/botanical-drawings/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://linneakirby.com/portfolio/botanical-drawings/feature_koi.PNG" />
+    </item>
+    
+    <item>
+      <title>postcards</title>
+      <link>https://linneakirby.com/portfolio/postcards/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://linneakirby.com/portfolio/postcards/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://linneakirby.com/portfolio/postcards/feature_2019bike_on_balcony.jpg" />
+    </item>
+    
+    <item>
+      <title>sketchbook</title>
+      <link>https://linneakirby.com/portfolio/sketchbook/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://linneakirby.com/portfolio/sketchbook/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://linneakirby.com/portfolio/sketchbook/feature_2015_wake-up.JPG" />
+    </item>
+    
+  </channel>
+</rss>

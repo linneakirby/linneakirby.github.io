@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programming on linnea.club</title>
+    <link>https://linneakirby.com/tags/programming/</link>
+    <description>Recent content in Programming on linnea.club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Linnéa Kirby</copyright>
+    <lastBuildDate>Wed, 31 Dec 1969 19:33:45 -0500</lastBuildDate><atom:link href="https://linneakirby.com/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>HAND</title>
+      <link>https://linneakirby.com/projects/hand/</link>
+      <pubDate>Wed, 31 Dec 1969 19:33:45 -0500</pubDate>
+      
+      <guid>https://linneakirby.com/projects/hand/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://linneakirby.com/projects/hand/feature_vector.png" />
+    </item>
+    
+    <item>
+      <title>HAND*CS</title>
+      <link>https://linneakirby.com/projects/handcs/</link>
+      <pubDate>Wed, 31 Dec 1969 19:33:45 -0500</pubDate>
+      
+      <guid>https://linneakirby.com/projects/handcs/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://linneakirby.com/projects/handcs/feature_vector.png" />
+    </item>
+    
+    <item>
+      <title>hapticolour</title>
+      <link>https://linneakirby.com/projects/hapticolour/</link>
+      <pubDate>Wed, 31 Dec 1969 19:33:41 -0500</pubDate>
+      
+      <guid>https://linneakirby.com/projects/hapticolour/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://linneakirby.com/projects/hapticolour/feature_hapticolour.png" />
+    </item>
+    
+    <item>
+      <title>flocking</title>
+      <link>https://linneakirby.com/projects/flocking/</link>
+      <pubDate>Wed, 31 Dec 1969 19:33:36 -0500</pubDate>
+      
+      <guid>https://linneakirby.com/projects/flocking/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://linneakirby.com/projects/flocking/feature_Flocking3.png" />
+    </item>
+    
+    <item>
+      <title>stepping stones</title>
+      <link>https://linneakirby.com/projects/stepping-stones/</link>
+      <pubDate>Wed, 31 Dec 1969 19:33:36 -0500</pubDate>
+      
+      <guid>https://linneakirby.com/projects/stepping-stones/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://linneakirby.com/projects/stepping-stones/feature_SteppingStones3.png" />
+    </item>
+    
+  </channel>
+</rss>

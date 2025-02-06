@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Whc on linnea.club</title>
+    <link>https://linneakirby.com/tags/whc/</link>
+    <description>Recent content in Whc on linnea.club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Linnéa Kirby</copyright>
+    <lastBuildDate>Wed, 31 Dec 1969 19:33:41 -0500</lastBuildDate><atom:link href="https://linneakirby.com/tags/whc/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>hapticolour</title>
+      <link>https://linneakirby.com/projects/hapticolour/</link>
+      <pubDate>Wed, 31 Dec 1969 19:33:41 -0500</pubDate>
+      
+      <guid>https://linneakirby.com/projects/hapticolour/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://linneakirby.com/projects/hapticolour/feature_hapticolour.png" />
+    </item>
+    
+    <item>
+      <title>vibroraptile</title>
+      <link>https://linneakirby.com/projects/vibroraptile/</link>
+      <pubDate>Wed, 31 Dec 1969 19:33:41 -0500</pubDate>
+      
+      <guid>https://linneakirby.com/projects/vibroraptile/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://linneakirby.com/projects/vibroraptile/feature_vibroraptile.png" />
+    </item>
+    
+  </channel>
+</rss>

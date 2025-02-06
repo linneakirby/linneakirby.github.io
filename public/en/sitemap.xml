@@ -3,6 +3,141 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>https://linneakirby.com/projects/hand/</loc>
+    <lastmod>1969-12-31T19:33:45-05:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://linneakirby.com/projects/handcs/</loc>
+    <lastmod>1969-12-31T19:33:45-05:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://linneakirby.com/</loc>
+    <lastmod>1969-12-31T19:33:45-05:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://linneakirby.com/fr/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://linneakirby.com/"
+    />
+  </url>
+  <url>
+    <loc>https://linneakirby.com/projects/</loc>
+    <lastmod>1969-12-31T19:33:45-05:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://linneakirby.com/projects/t-tree/</loc>
+    <lastmod>1969-12-31T19:33:42-05:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://linneakirby.com/projects/hapticolour/</loc>
+    <lastmod>1969-12-31T19:33:41-05:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://linneakirby.com/projects/vibroraptile/</loc>
+    <lastmod>1969-12-31T19:33:41-05:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://linneakirby.com/projects/anosmia-perfumery/</loc>
+    <lastmod>1969-12-31T19:33:36-05:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://linneakirby.com/projects/flocking/</loc>
+    <lastmod>1969-12-31T19:33:36-05:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://linneakirby.com/projects/history-of-hysteria/</loc>
+    <lastmod>1969-12-31T19:33:36-05:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://linneakirby.com/projects/immigration/</loc>
+    <lastmod>1969-12-31T19:33:36-05:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://linneakirby.com/projects/stepping-stones/</loc>
+    <lastmod>1969-12-31T19:33:36-05:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://linneakirby.com/projects/distill-and-exception/</loc>
+    <lastmod>1969-12-31T19:33:35-05:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://linneakirby.com/projects/the-first-of-mays/</loc>
+    <lastmod>1969-12-31T19:33:35-05:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://linneakirby.com/projects/le-cirque-des-reves/</loc>
+    <lastmod>1969-12-31T19:33:34-05:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://linneakirby.com/projects/story-book/</loc>
+    <lastmod>1969-12-31T19:33:33-05:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://linneakirby.com/projects/the-kings-breakfast/</loc>
+    <lastmod>1969-12-31T19:33:33-05:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://linneakirby.com/projects/un-jeu-avec-la-mort/</loc>
+    <lastmod>1969-12-31T19:33:32-05:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://linneakirby.com/projects/what-computers-can-do/</loc>
+    <lastmod>1969-12-31T19:33:32-05:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://linneakirby.com/projects/the-egg-book/</loc>
+    <lastmod>1969-12-31T19:33:20-05:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://linneakirby.com/performance/17-words/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://linneakirby.com/about/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -18,18 +153,78 @@
     />
   </url>
   <url>
-    <loc>https://linneakirby.com/</loc>
+    <loc>https://linneakirby.com/performance/append/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://linneakirby.com/portfolio/bookbinding/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://linneakirby.com/portfolio/botanical-drawings/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://linneakirby.com/cv/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://linneakirby.com/fr/"
+      href="https://linneakirby.com/fr/cv/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://linneakirby.com/"
+      href="https://linneakirby.com/cv/"
     />
+  </url>
+  <url>
+    <loc>https://linneakirby.com/portfolio/graphic-design/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://linneakirby.com/portfolio/misc/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://linneakirby.com/performance/necca/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://linneakirby.com/performance/ocircus/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://linneakirby.com/performance/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://linneakirby.com/portfolio/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://linneakirby.com/portfolio/postcards/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://linneakirby.com/portfolio/printmaking/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://linneakirby.com/portfolio/sketchbook/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
