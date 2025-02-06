@@ -5,7 +5,7 @@ layout: layouts/_default/simple.html
 languageCode: "en-us"
 showHero: true
 heroStyle: big
-date: 2023
+date: 2025
 tags: ["circus", "ece", "haptics", "programming"]
 draft: true
 ---
@@ -15,4 +15,4 @@ draft: true
 
 
 ## github
-{{< github repo="linneakirby/haptic-handbalancing" >}}
+{{< github repo="linneakirby/hand" >}}

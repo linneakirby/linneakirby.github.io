@@ -13,7 +13,6 @@ draft: false
 ---
 
 {{< gallery >}}
-  <img src="gallery/chandelier.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
   <img src="gallery/disco.gif" class="grid-w50 md:grid-w33 xl:grid-w25" />
   <img src="gallery/disco.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
   <img src="gallery/boston_logan_terminal_b.JPG" class="grid-w50 md:grid-w33 xl:grid-w25" />
@@ -23,6 +22,5 @@ draft: false
   <img src="gallery/nyx_sandwich.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
   <img src="gallery/zzzzzz.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
   <img src="gallery/neazine.JPG" class="grid-w50 md:grid-w33 xl:grid-w25" />
-  <img src="gallery/muppet.JPG" class="grid-w50 md:grid-w33 xl:grid-w25" />
 
 {{< /gallery >}}
